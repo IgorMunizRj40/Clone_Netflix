@@ -1,2 +1,2 @@
 # Clone_Netflix
-Desafio DIO
+Desafio DIO para recriar a página do Netflix.
